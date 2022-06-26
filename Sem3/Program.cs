@@ -129,3 +129,4 @@ Console.Write((current*current*current) + " ");
 current++;
 }
 */
+
