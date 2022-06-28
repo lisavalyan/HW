@@ -1,4 +1,4 @@
-﻿/*
+﻿
 Console.WriteLine("Введите первое число");
 int num1=Convert.ToInt32(Console.ReadLine());
 
@@ -14,8 +14,6 @@ while(current<=num2)
 n=n*result;
 result=1*num1;
 current++;
-}
+} 
 
 Console.WriteLine($"={n}");
-*/
-
