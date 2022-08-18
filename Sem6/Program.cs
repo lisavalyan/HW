@@ -25,6 +25,7 @@ Console.WriteLine($"Колличество положительных чисел
         int[] array = { 7, 2, 6, 0, 1, 4 };
  
         int[] copyarr = new int[array.Length];
+
         for (int i = 0; i < array.Length; i++)
        {
             copyarr[i] = array[i];
